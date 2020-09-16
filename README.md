@@ -9,7 +9,7 @@
 
 ### Exploratory Data Analysis
 
-- [Pizza Test Scores](https://github.com/Igna43/exploratory-data-analysis/blob/master/pisa_scores.r)
+- [Pisa Test Scores](https://github.com/Igna43/exploratory-data-analysis/blob/master/pisa_scores.r)
 
 ### Projects & Competitions
 
