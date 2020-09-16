@@ -4,4 +4,4 @@
 
 - [Asset Returns Visualization with ggplot2 & highcharter](https://github.com/Igna43/Visualizing-Asset-Returns/blob/master/AssetReturnsVis.r)
 
-![](/images/assetReturns.png)
+![](https://github.com/Igna43/Portfolio/blob/master/images/assetReturns.png)
