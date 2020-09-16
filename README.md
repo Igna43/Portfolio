@@ -5,3 +5,9 @@
 - [Asset Returns Visualization with ggplot2 & highcharter](https://github.com/Igna43/Visualizing-Asset-Returns/blob/master/AssetReturnsVis.r)
 
 ![](https://github.com/Igna43/Portfolio/blob/master/images/assetReturns.png)
+
+
+### Projects & Competitions
+
+### [Kaggle House Prices XGB](https://github.com/Igna43/regression-techniques/blob/master/house_prices.r)
++ Exploratory data analysis, missing value imputation and XGB regression model.
